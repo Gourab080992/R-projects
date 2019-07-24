@@ -2,7 +2,7 @@
 #############Chapter 3 - Deep Learning with neuralnet###################### 
 ###########################################################################
 #Reference BooK : Neural Networks with R
-#Code Courtesy : Giuseppe Ciaburro, Balaji Venkateswaran
+
 
 install.packages("neuralnet")
 install.packages("ISLR") #Package of datasets
